@@ -140,3 +140,22 @@ https://www.bilibili.com/video/av47388949?p=2
 
 硅--> 掺杂 -->制成两种半导体：P型半导体，N型半导体
 
+
+
+
+
+
+
+## CPU的基本组成
+
+PC -> Program Counter 程序计数器 （记录当前指令地址）
+
+Registers -> 暂时存储CPU计算需要用到的数据
+
+ALU -> Arithmetic & Logic Unit 运算单元
+
+CU -> Control Unit 控制单元
+
+MMU -> Memory Management Unit 内存管理单元
+
+cache
